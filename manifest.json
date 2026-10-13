@@ -1,0 +1,21 @@
+{
+  "name": "usthad azeezia menu",
+  "short_name": "usthad azeezia menu",
+  "start_url": "/Usthad-Azeezia-Menu/index.html",
+  "scope": "/Usthad-Azeezia-Menu/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
